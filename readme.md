@@ -1,3 +1,5 @@
+![Built with Browserless](https://img.shields.io/badge/Built%20with-Browserless-5EC792?style=for-the-badge&logo=graphql)
+
 # Browserless Login and Scrape Automation
 
 This project demonstrates how to use [BrowserQL](https://browserless.io/) to:
