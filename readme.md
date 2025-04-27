@@ -9,7 +9,7 @@ This project demonstrates how to use [BrowserQL](https://browserless.io/) to:
 ## Features
 
 - Secure token management using `.env`
-- Uses BrowserQL GraphQL API
+- Uses BrowserQL
 - Fully automates login, navigation, and data extraction
 
 ## Setup
@@ -17,7 +17,7 @@ This project demonstrates how to use [BrowserQL](https://browserless.io/) to:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/browserless-login-scrape.git
+git clone https://github.com/withshubh/login-and-scrape.git
 cd browserless-login-scrape
 ```
 
@@ -82,4 +82,4 @@ npm start
 Notes:
 - Make sure your .env file is NOT committed to GitHub. Add it in .gitignore file.
 - The token must be a valid Browserless API token.
-- This script uses node-fetch and dotenv packages.
+- This script uses `node-fetch` and `dotenv` packages.
